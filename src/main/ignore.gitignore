@@ -1,0 +1,15 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore build output directories
+/bin/
+/target/
